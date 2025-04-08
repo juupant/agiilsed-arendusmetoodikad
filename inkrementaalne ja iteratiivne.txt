@@ -1,0 +1,9 @@
+iteratiivne arendusmeetod keskendub ühekaupa inkrementide valmis tegemisele, nagu nt
+maja vundament, siis seinad, siis lagi jne. iga astme lõpus küsitakse kliendilt, kas see
+on ok, ja kui on, siis minnakse edasi. väga mugav ja paindlik süsteem, aga võib olla veidi
+aeganõudev. kasutatakse paljudes erinevates arendustsüklites, üsna populaarne ja lihtne.
+
+inkrementaalne on veidi teistsugune, algne planeering, siis leitakse vajadused, siis tehakse
+analüüs ja disainitakse süsteem, siis testitakse ja vaadatakse üle, ja liigutakse järgmisele
+sammule,kuni on deployment võimalik. samuti on tegu paindliku ja praktilise lahendusega,
+kuid pikad tsüklid ei pruugi olla sobivad suurtele projektidele ja võivad muutuda kulukaks.
